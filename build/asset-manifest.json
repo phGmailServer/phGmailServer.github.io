@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/phGmailServer/phGmailServer.github.io/static/css/main.e5e13307.css",
+    "main.js": "/phGmailServer/phGmailServer.github.io/static/js/main.09dafcd7.js",
+    "static/media/NFT-Transparent.png": "/phGmailServer/phGmailServer.github.io/static/media/NFT-Transparent.e8c8de2b338fec81ee6c.png",
+    "static/media/NFT-Art-PNG-Pic.png": "/phGmailServer/phGmailServer.github.io/static/media/NFT-Art-PNG-Pic.6c1566aff532a157f24a.png",
+    "static/media/hero.jpg": "/phGmailServer/phGmailServer.github.io/static/media/hero.8562676a6412e9ec4644.jpg",
+    "static/media/metamask-logo-png-transparent.png": "/phGmailServer/phGmailServer.github.io/static/media/metamask-logo-png-transparent.4f06ed22a21c26d9a0ce.png",
+    "static/media/john-doe.png": "/phGmailServer/phGmailServer.github.io/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/NFT-Transparent-Image.png": "/phGmailServer/phGmailServer.github.io/static/media/NFT-Transparent-Image.3971ff100abe0b8a2f92.png",
+    "static/media/NFT-PNG-Photo.png": "/phGmailServer/phGmailServer.github.io/static/media/NFT-PNG-Photo.a9fe095dcd60a85fceac.png",
+    "static/media/placeholder.png": "/phGmailServer/phGmailServer.github.io/static/media/placeholder.331482282b17d4ab1127.png",
+    "static/media/instagram.png": "/phGmailServer/phGmailServer.github.io/static/media/instagram.cdaae8e9e7cd76e08247.png",
+    "static/media/whatsapp.png": "/phGmailServer/phGmailServer.github.io/static/media/whatsapp.23ba589a2c4926bd12c8.png",
+    "index.html": "/phGmailServer/phGmailServer.github.io/index.html",
+    "main.e5e13307.css.map": "/phGmailServer/phGmailServer.github.io/static/css/main.e5e13307.css.map",
+    "main.09dafcd7.js.map": "/phGmailServer/phGmailServer.github.io/static/js/main.09dafcd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e13307.css",
+    "static/js/main.09dafcd7.js"
+  ]
+}
