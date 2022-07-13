@@ -1,24 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Component, useState } from "react";
+import Navbar from './components/Navbar'
+import Hero from './components/Hero'
+import About from './components/About'
+import Testimonials from './components/Testimonials'
+import Demo from './components/Demo'
+import Footer from './components/Footer'
+import Mint from "./components/Mint"
+import { Route, Routes } from 'react-router-dom'
 
 function App() {
+  const [accounts, setAccounts] = useState([]);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    {/* // <Routes> */}
+      <Navbar />
+      {/* <Mint accounts={accounts} setAccounts={setAccounts} /> */}
+      <Mint accounts={accounts} setAccounts={setAccounts} />
+      {/* <Hero /> */}
+      <Testimonials />
+      <Demo />
+      <About />
+      <Footer />
     </div>
+    // {/* </Routes> */}
   );
 }
 
